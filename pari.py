@@ -1,1 +1,1 @@
-print("pari")
+print("wtever")
