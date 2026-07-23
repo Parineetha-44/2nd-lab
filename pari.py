@@ -1,1 +1,1 @@
-print("python in java")
+print("pari")
