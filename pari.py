@@ -1,1 +1,1 @@
-print("python in c")
+print("python in java")
